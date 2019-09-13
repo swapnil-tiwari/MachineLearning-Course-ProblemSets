@@ -14,7 +14,7 @@ p = zeros(m, 1);
 %               your learned logistic regression parameters. 
 %               You should set p to a vector of 0's and 1's
 %
-
+% To implement prediction function
 res=sigmoid(X*theta)
 for i=1:m
 if res(i)>=0.5
