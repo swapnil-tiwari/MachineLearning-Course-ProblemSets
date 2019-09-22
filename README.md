@@ -6,3 +6,7 @@ Linear Regression Model for predicting profit on the basis of population using t
 
 # Ex-2)
 Implementation of Logistic Regression and Regularized Logistic Regression to predict if a student gets admission in a particular university seeing the older history according to scores and to predict if a microchip passes quality assurance test
+
+# Ex-3)
+Neurual Network representation and One-vs-All Prediction. Predicting numbers from their images form
+
